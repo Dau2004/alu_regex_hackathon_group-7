@@ -10,7 +10,7 @@ ip_address_regex = r'\b(?:\d{1,3}\.){3}\d{1,3}\b'##Matches IP addresses.
 hex_color_regex = r'#([A-Fa-f0-9]{6})'#Matches hex color codes.
 tv_episode_regex = r'\bFish S\d{1,2}E\d{1,2}:[^,]+'#Matches TV episode titles.
 song_lyrics_regex = r'\[(\w+ \d+)\]\s(.*?)\.\.\.'#Matches song lyrics enclosed in square brackets, capturing both the section and the lyrics.
-twitter_username_regex = r'@\w+'##Matches Twitter usernames.
+twitter_username_regex = r'@\w+'##Matches Twitter usernames..
 jokes_regex = r'Why did the .*? Because[^,]+'##Matches jokes.
 
 # Extracting Data using Regular Expressions
