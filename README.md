@@ -1,1 +1,1 @@
-This project aims to test the our understanding of Regular Expression.
+This project aims to test our understanding of Regular Expression.
