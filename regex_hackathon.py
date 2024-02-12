@@ -33,7 +33,7 @@ lyrics_array = [(section, lyrics + '...,') for section, lyrics in matches]
 
 # Printing Extracted Data
 #These lines print the extracted data for each category,
-# providing a structured output for better readability.
+# providing a structured output for better readability..
 print("Movie Titles:", movie_titles)
 print("Dates:", dates)
 print("ISBN Numbers:", isbn_numbers)
